@@ -14,7 +14,7 @@ from langchain.memory import MomentoChatMessageHistory
 from langchain.schema import HumanMessage, LLMResult, SystemMessage
 from langchain_pinecone import PineconeVectorStore
 from langchain_openai import OpenAIEmbeddings
-from langchain_core.prompts import SystemMessagePromptTemplate, ChatPromptTemplate
+# from langchain_core.prompts import SystemMessagePromptTemplate, ChatPromptTemplate
 # import langchain_core.pro
 
 from slack_bolt import App
